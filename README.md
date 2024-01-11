@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on **React, React Native, Nodejs, AWS**
 - ☁️ I'm mainly focus on **Frontend** but I have interest on **Fullstack** development
 - 💻 Checkout my personal <a href="https://www.allanloji.com/" target="_blank" >website</a>
+- 💼 Checkout my CV <a href="./assets/Allan_Lopez_CV_ENG.pdf" target="_blank" >English</a> <a href="./assets/Allan_Lopez_CV_ESP.pdf" target="_blank" >Español</a>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="20px"> Technologies that I use
