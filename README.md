@@ -6,6 +6,7 @@
 - :books: My major is **Software Engineering**
 - 🔭 I’m currently working on **React, React Native, Nodejs, AWS**
 - ☁️ I'm mainly focus on **Frontend** but I have interest on **Fullstack** development
+- 💻 Checkout my personal <a href="https://www.allanloji.com/" target="_blank" >website</a>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="20px"> Technologies that I use
@@ -23,19 +24,19 @@
 <p align="center">
   <a href="mailto:allanloji@gmail.com">
     <img align="center" alt="allanloji | Gmail" width="26px" src="./assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;
   
   <a href="https://www.linkedin.com/in/allanloji/" target="_blank">
     <img align="center" alt="allanloji | Linkedin" width="24px" src="./assets/linkedin.svg" />
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;
 
   <a href="https://www.twitter.com/allanciano/" target="_blank">
     <img align="center" alt="allanloji | X" width="24px" src="./assets/x.svg" />
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;
 
   <a href="https://www.dev.to/allanloji/" target="_blank">
     <img align="center" alt="allanloji | Linkedin" width="24px" src="./assets/devdotto.svg" />
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;
 
 <p> 
 
