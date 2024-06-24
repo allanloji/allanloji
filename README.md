@@ -4,7 +4,7 @@
 - :credit_card: My name is **Allan López** <img src="https://camo.githubusercontent.com/923eff39a65259f6ddfaafba30b3e8421864325b57d47b1196d9ea5e43a6f9f0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" width="200" align="right"/>
 - :school: I'm currently **open for work**
 - :books: My major is **Software Engineering**
-- 🔭 I’m currently working on **React, React Native, Nodejs, AWS**
+- 🔭 I’m currently working on **React, React Native, Nodejs, Go, AWS**
 - ☁️ I'm mainly focus on **Frontend** but I have interest on **Fullstack** development
 - 💻 Checkout my personal <a href="https://www.allanloji.com/" target="_blank" >website</a>
 - 💼 Checkout my CV <a href="./assets/Allan_Lopez_CV_ENG.pdf" target="_blank" >English</a> <a href="./assets/Allan_Lopez_CV_ESP.pdf" target="_blank" >Español</a>
